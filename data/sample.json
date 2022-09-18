@@ -20,8 +20,13 @@
 
   "book": {
     "title": "강철의 연금술사",
-    "author": ["아라카와 히로무"],
+    "author": {
+      "writer": ["아라카와 히로무"],
+      "picture": ["아라카와 히로무"],
+      "original": []
+    },
     "publisher": "학산문화사",
+    "date": "2012-07-16",
     "cover": "https://image.aladin.co.kr/product/1795/53/cover500/8925892898_1.jpg",
     "currency": "원",
     "regular": 9500,
