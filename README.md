@@ -4,10 +4,28 @@
 .
 ├── README.md
 └── data
-    └── sample.json
+    ├── list.json
+    └── detail.json
 ```
 
-- /data/sample.json: 1개의 상품 데이터 예제
+## list.json
+
+목록 데이터
+
+```json
+[
+  {
+    "cover": "https://image.aladin.co.kr/product/1795/53/cover200/8925892898_1.jpg",
+    "title": "강철의 연금술사 완전판 1",
+    "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17955391"
+  },
+  ...
+]
+```
+
+## detail.json
+
+1개의 상품 데이터 예제
 
 ```json
 {
