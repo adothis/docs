@@ -2,56 +2,67 @@
   {
     "cover": "https://image.aladin.co.kr/product/1795/53/cover200/8925892898_1.jpg",
     "title": "강철의 연금술사 완전판 1",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17955391"
   },
   {
     "cover": "https://image.aladin.co.kr/product/21508/32/coversum/k632636298_1.jpg",
     "title": "스파일 패밀리 1",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=215083221"
   },
   {
     "cover": "https://image.aladin.co.kr/product/26905/69/coversum/8954678068_1.jpg",
     "title": "빠졌어, 너에게",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=269056986"
   },
   {
     "cover": "https://image.aladin.co.kr/product/18994/99/coversum/k512635899_1.jpg",
     "title": "주술회전 0:외전",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=189949936"
   },
   {
     "cover": "https://image.aladin.co.kr/product/23682/64/coversum/8997381679_2.jpg",
     "title": "소년과 두더지와 여우와 말",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=236826464"
   },
   {
     "cover": "https://image.aladin.co.kr/product/24788/79/coversum/k202631736_1.jpg",
     "title": "타시로, 너란 녀석은 1",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247887919"
   },
   {
     "cover": "https://image.aladin.co.kr/product/18679/23/coversum/k162635560_1.jpg",
     "title": "명탐정 코난:제로의 일상 1",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=186792354"
   },
   {
     "cover": "https://image.aladin.co.kr/product/21677/33/coversum/k782636702_1.jpg",
     "title": "그 비스크 돌은 사랑을 한다 1",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=216773326"
   },
   {
     "cover": "https://image.aladin.co.kr/product/16082/5/coversum/k092533843_1.jpg",
     "title": "슬램덩크 신장재편판 1",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=160820597"
   },
   {
     "cover": "https://image.aladin.co.kr/product/25686/5/coversum/8934991321_1.jpg",
     "title": "사피엔스 : 그래픽 히스토리 Vol.1",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=256860565"
   },
   {
     "cover": "https://image.aladin.co.kr/product/18386/71/coversum/k392534055_1.jpg",
     "title": "흑요석이 그리는 한복 이야기",
+    "detail": "https://raw.githubusercontent.com/deuxksy/Alchemist/main/data/detail.json",
     "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=183867165"
   }
 ]
