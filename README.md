@@ -17,7 +17,10 @@
   {
     "cover": "https://image.aladin.co.kr/product/1795/53/cover200/8925892898_1.jpg",
     "title": "강철의 연금술사 완전판 1",
-    "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17955391"
+    "detail": "https://raw.githubusercontent.com/adothis/docs/main/data/detail.json",
+    "top": "만화 top1 2주",
+    "writer": "아라카와 히로무",
+    "picture":"아라카와 히로무"
   },
   ...
 ]
