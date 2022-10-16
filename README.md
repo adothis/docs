@@ -8,6 +8,9 @@
     └── detail.json
 ```
 
+- 상품 리스트 <https://raw.githubusercontent.com/adothis/docs/main/data/list.json>
+- 상품 상세 <https://raw.githubusercontent.com/adothis/docs/main/data/detail.json>
+
 ## list.json
 
 목록 데이터
