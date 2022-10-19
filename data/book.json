@@ -1,5 +1,6 @@
 {
   "isbn": 9788925892894,
+
   "book": {
     "title": "강철의 연금술사",
     "author": "아라카와 히로무",
@@ -9,6 +10,7 @@
     "regular": 9500,
     "selling": 8550
   },
+
   "ranking": {
     "weekly": 79,
     "top100": 11
