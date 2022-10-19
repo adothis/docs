@@ -1,0 +1,61 @@
+{
+  "isbn": 9788925892894,
+  "edition": [9788925886862],
+  "set": [6000679882, 9788925892900],
+
+  "store": {
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17955391",
+      "soldOut": false
+    },
+    "yes24": {
+      "url": "http://www.yes24.com/Product/Goods/7269207",
+      "soldOut": false
+    },
+    "ridibooks": {
+      "url": "https://ridibooks.com/books/505010468",
+      "soldOut": false
+    }
+  },
+
+  "book": {
+    "title": "강철의 연금술사",
+    "author": {
+      "writer": ["아라카와 히로무"],
+      "picture": ["아라카와 히로무"],
+      "original": [],
+      "translator": ["서현아"]
+    },
+    "publisher": "학산문화사",
+    "date": "2012-07-16",
+    "cover": "https://image.aladin.co.kr/product/1795/53/cover500/8925892898_1.jpg",
+    "currency": "원",
+    "regular": 9500,
+    "selling": 8550
+  },
+
+  "ranking": {
+    "weekly": 79,
+    "top100": 11,
+    "salesPoint": 2620
+  },
+
+  "genre": [
+    ["본경장르만화", "판타지", "액션판타지"],
+    ["본경장르만화", "SF/가상사회"]
+  ],
+
+  "buyer": [
+    { "age": 10, "woman": 7.6, "man": 5.8 },
+    { "age": 20, "woman": 25.2, "man": 20.4 },
+    { "age": 30, "woman": 9.0, "man": 14.1 },
+    { "age": 40, "woman": 8.6, "man": 5.3 },
+    { "age": 50, "woman": 1.9, "man": 1.6 },
+    { "age": 60, "woman": 0.3, "man": 0.2 }
+  ],
+
+  "star": {
+    "average": 8.7,
+    "all": [{ "5": 45.5 }, { "4": 45.5 }, { "3": 9.1 }, { "2": 0 }, { "1": 0 }]
+  }
+}
